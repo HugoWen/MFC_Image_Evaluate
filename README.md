@@ -1,7 +1,7 @@
 MFC_Image_Evaluate
 ==================
 
-# 基于MFC+Opencv的立体图像质量评测系统
+## 基于MFC+Opencv的立体图像质量评测系统
 
 *开发环境：Windows7(64)+VS2013+MFC+Opencv2.4.9*
 
